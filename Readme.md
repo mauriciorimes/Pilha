@@ -1,0 +1,1 @@
+Sistema que aborda o conceito de pilha em C.
